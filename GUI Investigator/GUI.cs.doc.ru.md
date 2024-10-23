@@ -6,14 +6,19 @@
 
 ### Поля класса
 
-int filenameHash - Хеш имени файла.
-int flag0, flag1, otherflags - Флаги для различных настроек.
-int somecount0, somecount1, somecount2, somecount3, othercount - Счетчики для различных элементов.
-List anims - Список анимаций.
-List panes - Список панелей.
-List events - Список событий.
+```int filenameHash``` - Хеш имени файла.
 
-Unknown unknown - Содержит неизвестные элементы.
+```int flag0, flag1, otherflags``` - Флаги для различных настроек.
+
+```int somecount0, somecount1, somecount2, somecount3, othercount``` - Счетчики для различных элементов.
+
+```List anims``` - Список анимаций.
+
+```List panes``` - Список панелей.
+
+```List events``` - Список событий.
+
+```Unknown unknown``` - Содержит неизвестные элементы.
 
 ## Методы класса ##
 
